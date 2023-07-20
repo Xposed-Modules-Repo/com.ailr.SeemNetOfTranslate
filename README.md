@@ -22,3 +22,6 @@ Xposed-Modules-Repo
 
 >4.打开需要翻译的软件
 
+
+### 蓝奏云:
+>https://2775608671.lanzouj.com/b00x82mbc 密码统一使用:6666
