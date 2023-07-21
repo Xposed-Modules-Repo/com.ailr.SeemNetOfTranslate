@@ -29,6 +29,9 @@ Xposed-Modules-Repo
 
 ### 翻译规则
 ```java
+** 注意 **
+这个功能只在1.0.2及以上有效
+
 如果你不想你开发的应用被翻译
 
 那么你可以创建类 _AILTV_ 继承 TextView
