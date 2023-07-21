@@ -28,11 +28,13 @@ Xposed-Modules-Repo
 
 
 ### 翻译规则
->如果你不想你开发的应用被翻译
->
->那么你可以创建类 _AILTV_ 继承 TextView
->
->然后在 xml 里面将 TextView 改为 com.xx.xx._AILTV_ 就OK了
+```java
+如果你不想你开发的应用被翻译
+
+那么你可以创建类 _AILTV_ 继承 TextView
+
+然后在 xml 里面将 TextView 改为 com.xx.xx._AILTV_ 就OK了
+```
 
 
 
