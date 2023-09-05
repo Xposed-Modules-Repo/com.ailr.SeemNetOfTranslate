@@ -112,9 +112,9 @@ Xposed-Modules-Repo
 
 
 ### 图片
-![成功开启屏幕翻译](https://example.com/0.jpg)
-![测试图1](https://example.com/1.jpg)
-![测试图2](https://example.com/2.jpg)
-![测试图3](https://example.com/3.jpg)
+![成功开启屏幕翻译](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/0.jpg)
+![测试图1](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/1.jpg)
+![测试图2]([https://example.com/](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/)https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/2.jpg)
+![测试图3]([https://example.com/](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/)https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/3.jpg)
 
 
