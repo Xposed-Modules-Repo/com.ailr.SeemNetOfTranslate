@@ -10,7 +10,11 @@ Xposed-Modules-Repo
 >
 >2.点击任意功能需要重新启动本软件和谷歌翻译
 >
->3.如果联网翻译不管用，请使用离线翻译
+>~~3.如果联网翻译不管用，请使用离线翻译~~
+>
+>4.拼音翻译优先使用源语言，若没有则使用译语言的
+>
+>5.使用屏幕时，需要进入谷歌翻译时点击翻译翻译编辑框，直到出现 Test Translation 或者其他语言的才表示启动成功
 
 ### 功能 
 >1.解除谷歌离线翻译在大陆区的限制
@@ -43,5 +47,10 @@ Xposed-Modules-Repo
 然后在 xml 里面将 TextView 改为 com.xx.xx._AILTV_ 就OK了
 ```
 
+### 图片
+![成功开启屏幕翻译](https://example.com/0.png)
+![测试图1](https://example.com/1.png)
+![测试图2](https://example.com/2.png)
+![测试图3](https://example.com/3.png)
 
 
