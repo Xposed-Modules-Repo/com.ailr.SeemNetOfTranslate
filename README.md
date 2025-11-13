@@ -1,54 +1,49 @@
-# Telionslate
+---
 
-[![Xposed](https://img.shields.io/badge/-Xposed-green?style=flat&logo=Android&logoColor=white)](#)
+# 🌐 **Telionslate**  
+> *强制谷歌翻译离线使用 | 屏幕翻译 | ELF 反编译*
+
+[[Xposed](https://img.shields.io/badge/-Xposed-green?style=flat&logo=Android&logoColor=white)](#)
 Xposed-Modules-Repo  
-[![GitHub all releases](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/total?label=Downloads)](https://github.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/releases)
+[[GitHub all releases](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/total?label=Downloads)](https://github.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/releases)
 
+---
 
-### **注意事项** 
->1.下载时注意下载对应版本号的谷歌翻译
->
->2.点击任意功能需要重新启动本软件和谷歌翻译
->
->~~3.如果联网翻译不管用，请使用离线翻译~~
->
->4.拼音翻译优先使用源语言，若没有则使用译语言的
->
->5.使用屏幕时，需要进入谷歌翻译时点击翻译翻译编辑框，直到出现 Test Translation 或者其他语言的才表示启动成功
+## 本软件主要功能
 
-### 功能 
->1.解除谷歌离线翻译在大陆区的限制
->
->2.使用谷歌翻译对屏幕进行翻译
+1. 强制 谷歌翻译APP 使用离线翻译  
+2. 调用 谷歌翻译APP 翻译屏幕  
+3. 一键反编译ELF  
+4. 即将实现的功能: 支持使用自定义lua脚本 hook 和 调用谷歌翻译APP进行翻译  
 
-### 使用教程 
->1.Lsp框架打勾谷歌翻译和要翻译的软件(如果不使用屏幕翻译就只需要打勾谷歌翻译)
->
->2.进入谷歌翻译点击编辑框
->
->3.进入Telionslate编辑功能
->
->4.打开需要翻译的软件
+---
 
+## 谷歌翻译注意事项
 
-### 蓝奏云 
->https://2775608671.lanzouj.com/b00x82mbc 密码统一使用:6666
+1. 下载时注意下载对应版本号的谷歌翻译  
+2. 使用屏幕时，需要进入谷歌翻译等到出现 Test Translation 或者其他语言的才表示启动成功  
 
+---
 
-### 翻译规则
-```java
-** 注意 **
-这个功能只在1.0.2及以上有效
+## 屏幕翻译使用教程 
 
-如果你不想你开发的应用被翻译
+1. Lsp框架打勾谷歌翻译和要翻译的软件（如果不使用屏幕翻译就只需要打勾谷歌翻译）  
+2. 进入 Telionslate 编辑功能  
+3. 在 Telionslate 里面点击启动谷歌翻译（也可以手动启动）  
+4. 打开需要翻译的软件  
 
-那么你可以创建类 _AILTV_ 继承 TextView
+---
 
-然后在 xml 里面将 TextView 改为 com.xx.xx._AILTV_ 就OK了
-```
+## 下载方式
 
+GitHub releases:  
+蓝奏云: https://2775608671.lanzouj.com/b00x82mbc 密码统一使用:6666  
+
+---
 
 ### 语言代码
+
+```
 - af - 南非荷兰语 (Afrikaans)
 - ar - 阿拉伯语 (Arabic)
 - bg - 保加利亚语 (Bulgarian)
@@ -109,13 +104,15 @@ Xposed-Modules-Repo
 - zh - 中文 (Chinese)
 - zh-CN - 简体中文 (Simplified Chinese)
 - zh-TW - 繁体中文 (Traditional Chinese)
+```
 
+---
 
 ### 图片
-** 此图片取自 3.3.111211 并不代表最新版 **
-![成功开启屏幕翻译](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/0.jpg)
-![测试图1](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/1.jpg)
-![测试图2](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/2.jpg)
-![测试图3](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/3.jpg)
 
+**此图片取自 3.3.111211 并不代表最新版**  
+[成功开启屏幕翻译](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/0.jpg)  
+[测试图1](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/1.jpg)  
+[测试图2](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/2.jpg)
 
+---
