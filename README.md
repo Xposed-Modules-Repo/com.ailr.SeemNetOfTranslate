@@ -1,9 +1,10 @@
+
 # 🌐 **Telionslate**  
 > *强制谷歌翻译离线使用 | 屏幕翻译 | ELF 反编译*
 
-[[Xposed](https://img.shields.io/badge/-Xposed-green?style=flat&logo=Android&logoColor=white)](#)
+[![Xposed](https://img.shields.io/badge/-Xposed-green?style=flat&logo=Android&logoColor=white)](#)
 Xposed-Modules-Repo  
-[[GitHub all releases](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/total?label=Downloads)](https://github.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/releases)
+[![GitHub all releases](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/total?label=Downloads)](https://github.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/releases)
 
 ---
 
@@ -109,6 +110,8 @@ GitHub releases:
 ### 图片
 
 **此图片取自 3.3.111211 并不代表最新版**  
-[成功开启屏幕翻译](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/0.jpg)  
-[测试图1](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/1.jpg)  
-[测试图2](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/2.jpg)
+![成功开启屏幕翻译](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/0.jpg)
+![测试图1](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/1.jpg)
+![测试图2](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/2.jpg)
+
+
