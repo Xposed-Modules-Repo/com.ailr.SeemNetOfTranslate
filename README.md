@@ -1,5 +1,3 @@
----
-
 # 🌐 **Telionslate**  
 > *强制谷歌翻译离线使用 | 屏幕翻译 | ELF 反编译*
 
@@ -114,5 +112,3 @@ GitHub releases:
 [成功开启屏幕翻译](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/0.jpg)  
 [测试图1](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/1.jpg)  
 [测试图2](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/2.jpg)
-
----
