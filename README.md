@@ -112,7 +112,7 @@ Xposed-Modules-Repo
 
 
 ### 图片
-** 此图片取自 1.5.1.698504882 并不代表最新版 **
+** 此图片取自 3.3.111211 并不代表最新版 **
 ![成功开启屏幕翻译](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/0.jpg)
 ![测试图1](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/1.jpg)
 ![测试图2](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/2.jpg)
