@@ -19,12 +19,12 @@ Xposed-Modules-Repo
 ---
 
 ## 算法大师注意事项
----
+
 暂无
 
 ---
 
-### 算法大师测试图:
+## 算法大师测试图:
 ---
 **此图片取自算法大师 1.0 并不代表最新版**  
 ![测试图1](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/ds0.jpg)
@@ -54,7 +54,7 @@ GitHub releases:
 
 ---
 
-### 语言代码
+## 语言代码
 
 ```
 - af - 南非荷兰语 (Afrikaans)
@@ -121,7 +121,7 @@ GitHub releases:
 
 ---
 
-### 图片
+## 图片
 
 **此图片取自 3.3.111211 并不代表最新版**  
 ![成功开启屏幕翻译](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/0.jpg)
