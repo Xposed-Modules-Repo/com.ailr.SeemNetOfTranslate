@@ -1,6 +1,6 @@
 
-# 🌐 **Telionslate**  
-> *强制谷歌翻译离线使用 | 屏幕翻译 | ELF 反编译*
+# 🌐 **Telionslate × 算法大师**  
+> *自定义lua脚本hook | 强制谷歌翻译离线使用 | 屏幕翻译 | ELF 反编译*
 
 [![Xposed](https://img.shields.io/badge/-Xposed-green?style=flat&logo=Android&logoColor=white)](#)
 Xposed-Modules-Repo  
@@ -10,10 +10,11 @@ Xposed-Modules-Repo
 
 ## 本软件主要功能
 
-1. 强制 谷歌翻译APP 使用离线翻译  
-2. 调用 谷歌翻译APP 翻译屏幕  
-3. 一键反编译ELF  
-4. 即将实现的功能: 支持使用自定义lua脚本 hook 和 调用谷歌翻译APP进行翻译  
+1. 算法大师(界面类似算法助手): 快速使用lua hook *这个有问题去TG反馈: https://t.me/Telionslate
+2. 强制 谷歌翻译APP 使用离线翻译  
+3. 调用 谷歌翻译APP 翻译屏幕  
+4. 一键反编译ELF  
+5. 即将实现的功能: 支持使用自定义调用谷歌翻译APP进行翻译  
 
 ---
 
