@@ -14,9 +14,19 @@ Xposed-Modules-Repo
 2. 强制 谷歌翻译APP 使用离线翻译  
 3. 调用 谷歌翻译APP 翻译屏幕  
 4. 一键反编译ELF  
-5. 即将实现的功能: 支持使用自定义调用谷歌翻译APP进行翻译  
-
+5. 即将实现的功能: 支持使用自定义调用谷歌翻译APP进行翻译
+    
 ---
+
+## 算法大师注意事项
+---
+暂无
+
+#### 算法大师测试图:
+**此图片取自算法大师 1.0 并不代表最新版**  
+![测试图1](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/ds1.jpg)
+![测试图2](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/ds2.jpg)
+![测试图3](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/ds3.jpg)
 
 ## 谷歌翻译注意事项
 
@@ -37,7 +47,7 @@ Xposed-Modules-Repo
 ## 下载方式
 
 GitHub releases:  
-蓝奏云: https://2775608671.lanzouj.com/b00x82mbc 密码统一使用:6666  
+蓝奏云: https://www.lanzouj.com/b00x82mbc 密码统一使用:6666  
 
 ---
 
