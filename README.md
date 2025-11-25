@@ -24,9 +24,9 @@ Xposed-Modules-Repo
 
 #### 算法大师测试图:
 **此图片取自算法大师 1.0 并不代表最新版**  
-![测试图1](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/ds1.jpg)
-![测试图2](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/ds2.jpg)
-![测试图3](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/ds3.jpg)
+![测试图1](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/ds0.jpg)
+![测试图2](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/ds1.jpg)
+![测试图3](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate/main/ds2.jpg)
 
 ## 谷歌翻译注意事项
 
